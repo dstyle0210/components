@@ -1,0 +1,31 @@
+{
+  "name": "dstyle_components",
+  "version": "0.0.1",
+  "description": "atomic design 기반 컴포넌트 구현(툴박스? 샌드박스?)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dstyle0210/components.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dstyle0210/components/issues"
+  },
+  "homepage": "https://github.com/dstyle0210/components#readme",
+  "devDependencies": {
+    "@babel/core": "^7.16.5",
+    "@babel/plugin-transform-react-jsx": "^7.16.5",
+    "@babel/preset-env": "^7.16.5",
+    "@babel/preset-react": "^7.16.5",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-sass": "^5.0.0",
+    "sass": "^1.45.1",
+    "express": "^4.17.2"
+  }
+}
